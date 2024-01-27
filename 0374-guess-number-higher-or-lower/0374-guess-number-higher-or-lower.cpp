@@ -13,7 +13,6 @@ public:
         int l = 1;
         int r = n;
         int mid;
-        int temp = 0;
         
         
         while (l <= r){
